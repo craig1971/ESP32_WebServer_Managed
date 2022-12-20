@@ -21,7 +21,7 @@
 #include <WiFiManager.h> 
 #include <ESPmDNS.h> 
 
-#define HOSTNAME      "coolname"
+#define HOSTNAME "coolname"
 
 // Set web server port number to 80
 WiFiServer server(80);
